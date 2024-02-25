@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\asus\Desktop\visual studio\C SHARP\engin demiroğ\yazılım yetiştirme kampı 25.02.2024\WebApi\Entities\obj\Debug\net6.0\ref\Entities.dll
